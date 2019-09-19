@@ -6,7 +6,6 @@
     "deployment_model": "GLOBAL",
     "security": {},
     "hosting": {
-        "enabled": true,
-        "app_default_domain": "hosting-vgsrp.mongodbstitch.com"
+        "enabled": true
     }
 }
