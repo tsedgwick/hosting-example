@@ -1,7 +1,7 @@
 {
-    "app_id": "hosting-vgsrp",
+    "app_id": "hosting-example-bklrt",
     "config_version": 20180301,
-    "name": "hosting",
+    "name": "hosting-example",
     "location": "US-VA",
     "deployment_model": "GLOBAL",
     "security": {},
