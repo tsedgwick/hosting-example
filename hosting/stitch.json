@@ -1,7 +1,5 @@
 {
-    "app_id": "hosting-example-bklrt",
     "config_version": 20180301,
-    "name": "hosting-example",
     "location": "US-VA",
     "deployment_model": "GLOBAL",
     "security": {},
