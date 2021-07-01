@@ -13,6 +13,6 @@ exports = function(arg){
 
     Try running in the console below.
   */
-  console.log("test")
+  console.log("here123");
   return "hello! :wave:";
 };
