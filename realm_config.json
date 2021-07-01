@@ -1,0 +1,7 @@
+{
+    "app_id": "eu-west-wrfrc",
+    "config_version": 20210101,
+    "name": "eu-west",
+    "location": "IE",
+    "deployment_model": "GLOBAL"
+}

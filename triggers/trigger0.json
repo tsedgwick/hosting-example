@@ -1,0 +1,10 @@
+{
+    "id": "5e7bbce75ef423fed9191cee",
+    "name": "trigger0",
+    "type": "SCHEDULED",
+    "config": {
+        "schedule": "*/1 * * * *"
+    },
+    "function_name": "function0",
+    "disabled": true
+}
